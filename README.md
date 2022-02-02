@@ -10,6 +10,3 @@
 [Discord](https://discord.com/users/855715968533135370)
 [Instagram](https://www.instagram.com/mh.kay/)
 
-<!--
-**Matt-Kohan/Matt-Kohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
